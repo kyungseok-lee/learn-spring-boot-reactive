@@ -1,4 +1,4 @@
-package com.pumice.reactive;
+package com.leekyungseok.reactive;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.pumice.reactive;
+package com.leekyungseok.reactive;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

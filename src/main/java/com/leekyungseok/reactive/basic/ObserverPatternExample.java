@@ -1,4 +1,4 @@
-package com.pumice.reactive.basic;
+package com.leekyungseok.reactive.basic;
 
 import java.util.Observable;
 import java.util.Observer;
@@ -7,11 +7,11 @@ import java.util.concurrent.Executors;
 
 /**
  * 원문: https://www.youtube.com/watch?v=8fenTR3KOJo
- *
+ * <p>
  * 용어 구분
  * Gang Of Four (GOF) : Subject   <> Observer
  * Reactive stream    : Publisher <> Subscriber
- *
+ * <p>
  * Observer Pattern의 단점
  * 1. data를 모두 전송한 후 complete의 개념이 없음
  * 2. error bug가 아닌 네트워크 장애와 같은 예외에 대응이 어렵다 (별도로 구현해야함)
