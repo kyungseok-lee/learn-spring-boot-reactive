@@ -1,4 +1,4 @@
-package com.leekyungseok.reactive.basic;
+package learn.springboot.reactive.basic;
 
 import lombok.extern.slf4j.Slf4j;
 import org.reactivestreams.Publisher;

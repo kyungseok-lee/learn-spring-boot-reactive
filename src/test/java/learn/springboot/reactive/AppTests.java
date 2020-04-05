@@ -1,10 +1,10 @@
-package com.leekyungseok.reactive;
+package learn.springboot.reactive;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ReactiveApplicationTests {
+class AppTests {
 
     @Test
     void contextLoads() {
